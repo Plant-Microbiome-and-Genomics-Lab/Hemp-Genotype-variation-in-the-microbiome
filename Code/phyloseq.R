@@ -127,13 +127,5 @@ plotbar(ps, level = "Genus", color = NULL, group = "Replicates", top = 15,
 ggsave("barplot-Genus-CBDvsFiber-Complete-ITS.pdf", height=4, width=10, device="pdf") # save a PDF 4 inches by 8 inches
 ggsave("barplot-Genus-CBDvsFiber-Complete-ITS.png", height=4, width=10, device="png", dpi=600)
 
-########################TEST#########################
-########################TEST#########################
-########################TEST#########################
-TopNOTUs <- names(sort(taxa_sums(ps), TRUE)[1:10])
-ent20   <- prune_species(TopNOTUs, ps)
-
-p = plot_bar(ent20, "Replicates", fill="Family", facet_grid=~Organ)
-print(p)
 
 
