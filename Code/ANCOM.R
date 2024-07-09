@@ -1,4 +1,4 @@
-#DIfferenctial abundance analysis
+#Differential abundance analysis
 
 library(tidyverse)
 library(phyloseq)
