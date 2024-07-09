@@ -1,0 +1,45 @@
+sample id 	Genotype	Organ	Replicates
+#q2:types	categorical	categorical	categorical
+W30A	Industrial Hemp: Sweet Sensi	Leaf	SSL1
+W30B	Industrial Hemp: Sweet Sensi	Leaf	SSL2
+W30C	Industrial Hemp: Sweet Sensi	Leaf	SSL3
+W31A	Industrial Hemp: Cherry Wine	Leaf	CWL1
+W31B	Industrial Hemp: Cherry Wine	Leaf	CWL2
+W31C	Industrial Hemp: Cherry Wine	Leaf	CWL3
+W32A	Industrial Hemp: American Victory-1	Leaf	AVL1
+W32B	Industrial Hemp: American Victory-1	Leaf	AVL2
+W32C	Industrial Hemp: American Victory-1	Leaf	AVL3
+W33A	"Industrial Hemp: 	Unknown"	Leaf	UNL1
+W33B	"Industrial Hemp: 	Unknown"	Leaf	UNL2
+W33C	"Industrial Hemp: 	Unknown"	Leaf	UNL3
+W34A	Industrial Hemp: Sweet Sensi	Stem	SST1
+W34B	Industrial Hemp: Sweet Sensi	Stem	SST2
+W35A	Industrial Hemp: Cherry Wine	Stem	CWT1
+W35B	Industrial Hemp: Cherry Wine	Stem	CWT2
+W36A	Industrial Hemp: American Victory-1	Stem	AVT1
+W36B	Industrial Hemp: American Victory-1	Stem	AVT2
+W37A	"Industrial Hemp: 	Unknown"	Stem	UNT1
+W37B	"Industrial Hemp: 	Unknown"	Stem	UNT2
+W38A	Industrial Hemp: Sweet Sensi	Root	SSR1
+W38B	Industrial Hemp: Sweet Sensi	Root	SSR2
+W38C	Industrial Hemp: Sweet Sensi	Root	SSR3
+W39A	Industrial Hemp: Cherry Wine	Root	CWR1
+W39B	Industrial Hemp: Cherry Wine	Root	CWR2
+W39C	Industrial Hemp: Cherry Wine	Root	CWR3
+W40A	Industrial Hemp: American Victory-1	Root	AVR1
+W40B	Industrial Hemp: American Victory-1	Root	AVR2
+W40C	Industrial Hemp: American Victory-1	Root	AVR3
+W41A	"Industrial Hemp: 	Unknown"	Root	UNR1
+W41B	"Industrial Hemp: 	Unknown"	Root	UNR2
+W41C	"Industrial Hemp: 	Unknown"	Root	UNR3
+W42A	Industrial Hemp: Sweet Sensi	Soil	SSS1
+W42B	Industrial Hemp: Sweet Sensi	Soil	SSS2
+W42C	Industrial Hemp: Sweet Sensi	Soil	SSS3
+W43A	Industrial Hemp: Cherry Wine	Soil	CWS1
+W43B	Industrial Hemp: Cherry Wine	Soil	CWS2
+W44A	Industrial Hemp: American Victory-1	Soil	AVS1
+W44B	Industrial Hemp: American Victory-1	Soil	AVS2
+W44C	Industrial Hemp: American Victory-1	Soil	AVS3
+W45A	"Industrial Hemp: 	Unknown"	Soil	UNS1
+W45B	"Industrial Hemp: 	Unknown"	Soil	UNS2
+W45C	"Industrial Hemp: 	Unknown"	Soil	UNS3
