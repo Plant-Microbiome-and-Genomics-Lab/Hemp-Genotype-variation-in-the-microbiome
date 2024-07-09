@@ -2,11 +2,9 @@
 
 library(tidyverse)
 library(phyloseq)
-library(DESeq2)
 library(microbiome)
 library(vegan)
 library(picante)
-library(ALDEx2)
 library(metagenomeSeq)
 library(HMP)
 library(dendextend)
