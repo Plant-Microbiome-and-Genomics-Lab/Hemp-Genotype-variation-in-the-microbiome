@@ -1,5 +1,4 @@
 library('ggvenn')
-library('VennDiagram')
 library('microbiomeutilities')
 library('eulerr')
 library('microbiome')
