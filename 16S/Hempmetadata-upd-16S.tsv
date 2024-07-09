@@ -1,0 +1,43 @@
+sample id 	Genotype	Organ	Replicates	Use
+#q2:types	categorical	categorical	categorical	categorical
+W1A	Sweet Sensi	Leaves	SSL1	CBD
+W1B	Sweet Sensi	Leaves	SSL2	CBD
+W1C	Sweet Sensi	Leaves	SSL3	CBD
+W2A	Cherry Wine	Leaves	CWL1	Fiber
+W2B	Cherry Wine	Leaves	CWL2	Fiber
+W3A	American Victory-1	Leaves	AVL1	CBD
+W3B	American Victory-1	Leaves	AVL2	CBD
+W3C	American Victory-1	Leaves	AVL3	CBD
+W4A	Unknown	Leaves	UNL1	Fiber
+W4B	Unknown	Leaves	UNL2	Fiber
+W5A	Sweet Sensi	Stem	SST1	CBD
+W5B	Sweet Sensi	Stem	SST2	CBD
+W6A	Cherry Wine	Stem	CWT1	Fiber
+W6B	Cherry Wine	Stem	CWT2	Fiber
+W7A	American Victory-1	Stem	AVT1	CBD
+W7B	American Victory-1	Stem	AVT2	CBD
+W8A	Unknown	Stem	UNT1	Fiber
+W8B	Unknown	Stem	UNT2	Fiber
+W9A	Sweet Sensi	Root	SSR1	CBD
+W9B	Sweet Sensi	Root	SSR2	CBD
+W9C	Sweet Sensi	Root	SSR3	CBD
+W10A	Cherry Wine	Root	CWR1	Fiber
+W10B	Cherry Wine	Root	CWR2	Fiber
+W10C	Cherry Wine	Root	CWR3	Fiber
+W11A	American Victory-1	Root	AVR1	CBD
+W11B	American Victory-1	Root	AVR2	CBD
+W11C	American Victory-1	Root	AVR3	CBD
+W12A	Unknown	Root	UNR1	Fiber
+W12B	Unknown	Root	UNR2	Fiber
+W12C	Unknown	Root	UNR3	Fiber
+W13A	Sweet Sensi	Soil	SSS1	CBD
+W13B	Sweet Sensi	Soil	SSS2	CBD
+W13C	Sweet Sensi	Soil	SSS3	CBD
+W14A	Cherry Wine	Soil	CWS1	Fiber
+W14B	Cherry Wine	Soil	CWS2	Fiber
+W14C	Cherry Wine	Soil	CWS3	Fiber
+W15A	American Victory-1	Soil	AVS1	CBD
+W15B	American Victory-1	Soil	AVS2	CBD
+W15C	American Victory-1	Soil	AVS3	CBD
+W16A	Unknown	Soil	UNS1	Fiber
+W16B	Unknown	Soil	UNS2	Fiber
